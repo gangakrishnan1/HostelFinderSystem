@@ -1,0 +1,277 @@
+[
+  {
+    "id": 201,
+    "name": "Sri Sai Residency Hostel",
+    "description": "Student-focused hostel with hygienic food, study hall, and 24x7 security.",
+    "location": "Hyderabad",
+    "area": "Kukatpally",
+    "collegeLocation": "JNTU Hyderabad",
+    "pricePerNight": 950,
+    "rating": 4.3,
+    "facilities": ["WiFi", "AC", "Laundry", "Food", "Parking"],
+    "images": [
+      "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": { "lat": 17.4933, "lng": 78.4011 },
+    "roomTypes": [
+      { "type": "Single", "price": 1100 },
+      { "type": "Double", "price": 1500 },
+      { "type": "Deluxe", "price": 2100 }
+    ],
+    "reviews": [
+      { "id": "r-201-1", "user": "Kiran", "rating": 4, "comment": "Good rooms and friendly staff." }
+    ]
+  },
+  {
+    "id": 202,
+    "name": "UrbanNest Boys Hostel",
+    "description": "Affordable hostel near IT hubs with high-speed internet and daily housekeeping.",
+    "location": "Hyderabad",
+    "area": "Madhapur",
+    "collegeLocation": "IIIT Hyderabad",
+    "pricePerNight": 1200,
+    "rating": 4.4,
+    "facilities": ["WiFi", "AC", "Food", "Laundry"],
+    "images": [
+      "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": { "lat": 17.4474, "lng": 78.3915 },
+    "roomTypes": [
+      { "type": "Single", "price": 1350 },
+      { "type": "Double", "price": 1700 },
+      { "type": "Deluxe", "price": 2400 }
+    ],
+    "reviews": [
+      { "id": "r-202-1", "user": "Praneeth", "rating": 5, "comment": "Clean and walkable to coaching centers." }
+    ]
+  },
+  {
+    "id": 203,
+    "name": "LakeView Ladies Hostel",
+    "description": "Safe ladies hostel with biometric access, CCTV, and nutritious meal plans.",
+    "location": "Hyderabad",
+    "area": "Gachibowli",
+    "collegeLocation": "University of Hyderabad",
+    "pricePerNight": 1450,
+    "rating": 4.6,
+    "facilities": ["WiFi", "AC", "Food", "Laundry", "Parking"],
+    "images": [
+      "https://images.unsplash.com/photo-1560185008-b033106af5c3?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": { "lat": 17.4401, "lng": 78.3489 },
+    "roomTypes": [
+      { "type": "Single", "price": 1650 },
+      { "type": "Double", "price": 2100 },
+      { "type": "Deluxe", "price": 2650 }
+    ],
+    "reviews": [
+      { "id": "r-203-1", "user": "Sneha", "rating": 5, "comment": "Very secure and peaceful place." }
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Metro Stay PG & Hostel",
+    "description": "Well-connected hostel near metro with AC rooms and self-cooking facility.",
+    "location": "Hyderabad",
+    "area": "Ameerpet",
+    "collegeLocation": "Nizam College",
+    "pricePerNight": 900,
+    "rating": 4.1,
+    "facilities": ["WiFi", "Laundry", "Parking"],
+    "images": [
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": { "lat": 17.4375, "lng": 78.4482 },
+    "roomTypes": [
+      { "type": "Single", "price": 1050 },
+      { "type": "Double", "price": 1400 },
+      { "type": "Deluxe", "price": 2000 }
+    ],
+    "reviews": [
+      { "id": "r-204-1", "user": "Akhil", "rating": 4, "comment": "Budget-friendly and decent maintenance." }
+    ]
+  },
+  {
+    "id": 205,
+    "name": "GreenLeaf Student Hostel",
+    "description": "Quiet hostel environment with reading lounge and weekend cleaning services.",
+    "location": "Hyderabad",
+    "area": "Dilsukhnagar",
+    "collegeLocation": "Osmania University",
+    "pricePerNight": 800,
+    "rating": 4.0,
+    "facilities": ["WiFi", "Food", "Laundry"],
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": { "lat": 17.3688, "lng": 78.5247 },
+    "roomTypes": [
+      { "type": "Single", "price": 950 },
+      { "type": "Double", "price": 1300 },
+      { "type": "Deluxe", "price": 1750 }
+    ],
+    "reviews": [
+      { "id": "r-205-1", "user": "Harsha", "rating": 4, "comment": "Comfortable stay for students." }
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Silicon Residency Hostel",
+    "description": "Professional hostel with modern interiors and co-working spaces.",
+    "location": "Bengaluru",
+    "area": "BTM Layout",
+    "collegeLocation": "Christ University",
+    "pricePerNight": 1300,
+    "rating": 4.2,
+    "facilities": ["WiFi", "AC", "Food", "Laundry"],
+    "images": [
+      "https://images.unsplash.com/photo-1578898887932-dce23a595ad4?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": { "lat": 12.9166, "lng": 77.6101 },
+    "roomTypes": [
+      { "type": "Single", "price": 1450 },
+      { "type": "Double", "price": 1900 },
+      { "type": "Deluxe", "price": 2600 }
+    ],
+    "reviews": [
+      { "id": "r-206-1", "user": "Rahul", "rating": 4, "comment": "Good connectivity and tidy rooms." }
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Campus Corner Hostel",
+    "description": "Popular among university students with meal options and secure entry.",
+    "location": "Bengaluru",
+    "area": "Koramangala",
+    "collegeLocation": "St. Joseph's University",
+    "pricePerNight": 1150,
+    "rating": 4.3,
+    "facilities": ["WiFi", "Food", "Laundry", "Parking"],
+    "images": [
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": { "lat": 12.9352, "lng": 77.6245 },
+    "roomTypes": [
+      { "type": "Single", "price": 1250 },
+      { "type": "Double", "price": 1680 },
+      { "type": "Deluxe", "price": 2250 }
+    ],
+    "reviews": [
+      { "id": "r-207-1", "user": "Divya", "rating": 4, "comment": "Good for students and internships." }
+    ]
+  },
+  {
+    "id": 208,
+    "name": "City Pearl Ladies Hostel",
+    "description": "Women-friendly hostel with warden support and secured premises.",
+    "location": "Bengaluru",
+    "area": "Marathahalli",
+    "collegeLocation": "CMR University",
+    "pricePerNight": 1500,
+    "rating": 4.5,
+    "facilities": ["WiFi", "AC", "Food", "Parking"],
+    "images": [
+      "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": { "lat": 12.9591, "lng": 77.6974 },
+    "roomTypes": [
+      { "type": "Single", "price": 1700 },
+      { "type": "Double", "price": 2150 },
+      { "type": "Deluxe", "price": 2750 }
+    ],
+    "reviews": [
+      { "id": "r-208-1", "user": "Anusha", "rating": 5, "comment": "Very safe and well maintained." }
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Sea Breeze Co-living",
+    "description": "Premium co-living space with sea view, high-speed internet, and gym.",
+    "location": "Mumbai",
+    "area": "Bandra West",
+    "collegeLocation": "St. Andrew's College",
+    "pricePerNight": 2500,
+    "rating": 4.7,
+    "facilities": ["WiFi", "AC", "Laundry", "Parking"],
+    "images": [
+      "https://images.unsplash.com/photo-1520277739336-7bf67edfa768?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": { "lat": 19.0596, "lng": 72.8295 },
+    "roomTypes": [
+      { "type": "Single", "price": 2800 },
+      { "type": "Double", "price": 3500 },
+      { "type": "Deluxe", "price": 4500 }
+    ],
+    "reviews": [
+      { "id": "r-209-1", "user": "Rohan", "rating": 5, "comment": "Amazing view and great amenities." }
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Andheri Tech Hub PG",
+    "description": "Affordable PG for professionals and students near metro station.",
+    "location": "Mumbai",
+    "area": "Andheri East",
+    "collegeLocation": "NMIMS",
+    "pricePerNight": 1800,
+    "rating": 4.2,
+    "facilities": ["WiFi", "Food", "Laundry"],
+    "images": [
+      "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": { "lat": 19.1136, "lng": 72.8697 },
+    "roomTypes": [
+      { "type": "Single", "price": 2000 },
+      { "type": "Double", "price": 2600 }
+    ],
+    "reviews": [
+      { "id": "r-210-1", "user": "Siddharth", "rating": 4, "comment": "Convenient for daily commute." }
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Chennai Central Men's Hostel",
+    "description": "Budget-friendly stay with 24/7 water supply and mess facility.",
+    "location": "Chennai",
+    "area": "Egmore",
+    "collegeLocation": "Madras Medical College",
+    "pricePerNight": 850,
+    "rating": 4.0,
+    "facilities": ["WiFi", "Food", "Laundry"],
+    "images": [
+      "https://images.unsplash.com/photo-1560185008-b033106af5c3?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": { "lat": 13.0732, "lng": 80.2609 },
+    "roomTypes": [
+      { "type": "Single", "price": 1000 },
+      { "type": "Double", "price": 1400 }
+    ],
+    "reviews": [
+      { "id": "r-211-1", "user": "Karthik", "rating": 4, "comment": "Good food and very close to station." }
+    ]
+  },
+  {
+    "id": 212,
+    "name": "OMR IT Corridor Women's PG",
+    "description": "Highly secure PG for women working in IT corridor, offering AC rooms.",
+    "location": "Chennai",
+    "area": "Sholinganallur",
+    "collegeLocation": "Sathyabama University",
+    "pricePerNight": 1400,
+    "rating": 4.5,
+    "facilities": ["WiFi", "AC", "Food", "Laundry", "Parking"],
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "coordinates": { "lat": 12.9010, "lng": 80.2279 },
+    "roomTypes": [
+      { "type": "Single", "price": 1600 },
+      { "type": "Double", "price": 2200 },
+      { "type": "Deluxe", "price": 2800 }
+    ],
+    "reviews": [
+      { "id": "r-212-1", "user": "Priya", "rating": 5, "comment": "Safe and close to my office." }
+    ]
+  }
+]
